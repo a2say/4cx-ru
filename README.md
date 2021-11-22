@@ -1,8 +1,8 @@
-# a2say-ru
+# 4cx.ru
 [![Netlify Status](https://api.netlify.com/api/v1/badges/33f75323-9bfa-4643-959c-9adebc8e4cf4/deploy-status)](https://app.netlify.com/sites/a2say/deploys)
 
 
-Статичная копия сайта по адресу a2say.ru
+Статичная копия сайта по адресу 4cx.ru
 
 
 
